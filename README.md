@@ -6,8 +6,8 @@ Typo corrections, additional points, paper suggestions etc are all very welcome.
 ## Table of Contents
 
 - [Optimization](https://github.com/xuedong/paper-reading/blob/master/Optimization.md)
-- [Reinforcement Learning](https://github.com/xuedong/paper-reading/blob/master/Reinforcement Learning.md)
-- [Deep Learning](https://github.com/xuedong/paper-reading/blob/master/Deep Learning.md)
-- [Algorithm Selection](https://github.com/xuedong/paper-reading/blob/master/Algorithm Selection.md)
-- [Optimal Transport](https://github.com/xuedong/paper-reading/blob/master/Optimal Transport.md)
-- [Time Series](https://github.com/xuedong/paper-reading/blob/master/Time Series.md)
+- [Reinforcement Learning](https://github.com/xuedong/paper-reading/blob/master/Reinforcement%20Learning.md)
+- [Deep Learning](https://github.com/xuedong/paper-reading/blob/master/Deep%20Learning.md)
+- [Algorithm Selection](https://github.com/xuedong/paper-reading/blob/master/Algorithm%20Selection.md)
+- [Optimal Transport](https://github.com/xuedong/paper-reading/blob/master/Optimal%20Transport.md)
+- [Time Series](https://github.com/xuedong/paper-reading/blob/master/Time%20Series.md)
