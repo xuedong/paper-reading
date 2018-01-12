@@ -10,4 +10,5 @@ Typo corrections, additional points, paper suggestions etc are all very welcome.
 - [Deep Learning](https://github.com/xuedong/paper-reading/blob/master/Deep%20Learning.md)
 - [Algorithm Selection](https://github.com/xuedong/paper-reading/blob/master/Algorithm%20Selection.md)
 - [Optimal Transport](https://github.com/xuedong/paper-reading/blob/master/Optimal%20Transport.md)
+- [Clustering](https://github.com/xuedong/paper-reading/blob/master/Clustering.md)
 - [Time Series](https://github.com/xuedong/paper-reading/blob/master/Time%20Series.md)
