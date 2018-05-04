@@ -10,6 +10,8 @@
 * [Applications](#applications)
 * [Others](#others)
 
+## Papers
+
 ### Stochastic Bandits
 
 ### Contextual Bandits
