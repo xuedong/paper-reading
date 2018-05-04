@@ -18,8 +18,8 @@
 
 ### Continuum-armed Bandits
 
-* **`HOO`** [X-armed Bandits](https://arxiv.org/abs/1001.4475), Bubeck, S. et al., 2010.
-* Adaptivity to Smoothness in X-armed Bandits, Locatelli, A. and Carpentier, A., 2018
+* **`HOO`** [X-armed Bandits](https://arxiv.org/abs/1001.4475), S. Bubeck et al., 2010.
+* Adaptivity to Smoothness in X-armed Bandits, A. Locatelli and A. Carpentier, 2018
 
 ### Adversarial Bandits
 
