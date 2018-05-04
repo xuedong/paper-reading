@@ -13,3 +13,4 @@ Typo corrections, additional points, paper suggestions etc are all very welcome.
 - [Clustering](https://github.com/xuedong/paper-reading/blob/master/Clustering.md)
 - [Time Series](https://github.com/xuedong/paper-reading/blob/master/Time%20Series.md)
 - [Convex Optimization](https://github.com/xuedong/paper-reading/blob/master/Convex%20Optimization.md)
+- [Transfer Learning](https://github.com/xuedong/paper-reading/blob/master/Transfer%20Learning.md)
