@@ -5,7 +5,7 @@ Typo corrections, additional points, paper suggestions etc are all very welcome.
 
 ## Table of Contents
 
-- [Optimization](https://github.com/xuedong/paper-reading/blob/master/Optimization.md)
+- [Bandit Theory](https://github.com/xuedong/paper-reading/blob/master/Bandit%20Theory.md)
 - [Reinforcement Learning](https://github.com/xuedong/paper-reading/blob/master/Reinforcement%20Learning.md)
 - [Deep Learning](https://github.com/xuedong/paper-reading/blob/master/Deep%20Learning.md)
 - [Algorithm Selection](https://github.com/xuedong/paper-reading/blob/master/Algorithm%20Selection.md)
