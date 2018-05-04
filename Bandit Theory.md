@@ -2,7 +2,7 @@
 
 ## Summary
 
-* Stochastic Bandits(#stochastic-bandits)
+* [Stochastic Bandits](#stochastic-bandits)
 * Contextual Bandits
 * Coninuum-armed Bandits
 * Adversarial Bandits
