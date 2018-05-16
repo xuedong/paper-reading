@@ -8,10 +8,13 @@ Typo corrections, additional points, paper suggestions etc are all very welcome.
 - [Bandit Theory](https://github.com/xuedong/paper-reading/blob/master/Bandit%20Theory.md)
 - [Reinforcement Learning](https://github.com/xuedong/paper-reading/blob/master/Reinforcement%20Learning.md)
 - [Deep Learning](https://github.com/xuedong/paper-reading/blob/master/Deep%20Learning.md)
-- [Algorithm Selection](https://github.com/xuedong/paper-reading/blob/master/Algorithm%20Selection.md)
+- [Statistics](https://github.com/xuedong/paper-reading/blob/master/Statistics.md)
+
 - [Optimal Transport](https://github.com/xuedong/paper-reading/blob/master/Optimal%20Transport.md)
 - [Clustering](https://github.com/xuedong/paper-reading/blob/master/Clustering.md)
 - [Time Series](https://github.com/xuedong/paper-reading/blob/master/Time%20Series.md)
 - [Convex Optimization](https://github.com/xuedong/paper-reading/blob/master/Convex%20Optimization.md)
 - [Transfer Learning](https://github.com/xuedong/paper-reading/blob/master/Transfer%20Learning.md)
-- [Statistics](https://github.com/xuedong/paper-reading/blob/master/Statistics.md)
+- [Recommendation System](https://github.com/xuedong/paper-reading/blob/master/Recommendation%20System.md)
+- [Algorithm Selection](https://github.com/xuedong/paper-reading/blob/master/Algorithm%20Selection.md)
+
