@@ -7,6 +7,7 @@ Typo corrections, additional points, paper suggestions etc are all very welcome.
 
 - Major
 	- [Bandit Theory](https://github.com/xuedong/paper-reading/blob/master/Bandit%20Theory.md)
+	- [Global Optimization](https://github.com/xuedong/paper-reading/blob/master/Global%20Optimization.md)
 	- [Reinforcement Learning](https://github.com/xuedong/paper-reading/blob/master/Reinforcement%20Learning.md)
 	- [Deep Learning](https://github.com/xuedong/paper-reading/blob/master/Deep%20Learning.md)
 	- [Statistics](https://github.com/xuedong/paper-reading/blob/master/Statistics.md)
