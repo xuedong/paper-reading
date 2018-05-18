@@ -20,4 +20,5 @@ Typo corrections, additional points, paper suggestions etc are all very welcome.
 	- [Transfer Learning](https://github.com/xuedong/paper-reading/blob/master/Transfer%20Learning.md)
 	- [Recommendation System](https://github.com/xuedong/paper-reading/blob/master/Recommendation%20System.md)
 	- [Algorithm Selection](https://github.com/xuedong/paper-reading/blob/master/Algorithm%20Selection.md)
+	- [Active Learning](https://github.com/xuedong/paper-reading/blob/master/Active%20Learning.md)
 
