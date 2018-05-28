@@ -13,3 +13,5 @@
 
 ### Stochastic Approaches
 
+* [Maximizing Acquisition Functions for Bayesian Optimization](https://arxiv.org/abs/1805.10196), J. Wilson et al., 2018.
+
