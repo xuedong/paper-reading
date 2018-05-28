@@ -27,6 +27,8 @@
 
 ### Adversarial Bandits
 
+* **`MOSS`** [Minimax Policies for Adversarial and Stochastic Bandits](https://hal-enpc.archives-ouvertes.fr/hal-00834882), J-Y. Audibert and S. Bubeck, 2009.
+
 ### Best Arm Identification
 
 ### Applications
