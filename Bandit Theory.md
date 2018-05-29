@@ -14,6 +14,8 @@
 
 ### Stochastic Bandits
 
+* **`UCB1`** [Finite-time Analysis of the Multi-armed Bandit Problem](https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf), P. Auer et al., 2002.
+
 ### Contextual Bandits
 
 ### Continuum-armed Bandits
@@ -31,6 +33,8 @@
 * **`MOSS`** [Minimax Policies for Adversarial and Stochastic Bandits](https://hal-enpc.archives-ouvertes.fr/hal-00834882), J-Y. Audibert and S. Bubeck, 2009.
 
 ### Best Arm Identification
+
+* **`TTPS`** **`TTVS`** **`TTTS`** [Simple Bayesian Algorithms for Best Arm Identification](https://arxiv.org/abs/1602.08448), D. Russo, 2016. ([video](https://www.youtube.com/watch?v=5Mb_IguFDmQ))
 
 ### Applications
 
