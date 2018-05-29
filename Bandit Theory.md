@@ -18,6 +18,7 @@
 
 ### Continuum-armed Bandits
 
+* **`UCB-V`** **`UCB-F`** [Algorithms for Infinitely Many-Armed Bandits](https://papers.nips.cc/paper/3452-algorithms-for-infinitely-many-armed-bandits.pdf), Y. Wang et al., 2008.
 * **`HOO`** [X-armed Bandits](https://arxiv.org/abs/1001.4475), S. Bubeck et al., 2010. ([video](https://www.youtube.com/watch?v=G1abqjqffRE))
 * [Lipschitz Bandits without the Lipschitz Constant](https://arxiv.org/abs/1105.5041), S. Bubeck et al., 2011.
 * **`HCT`** [Online Stochastic Optimization under Correlated Bandit Feedback](https://arxiv.org/abs/1402.0562), M. Gheshlaghi-Azar et al., 2014.
