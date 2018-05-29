@@ -32,6 +32,9 @@
 
 ### Adversarial Bandits
 
+* **`EXP3`** [The Non-stochastic Multi-armed Bandit Problem](http://homes.dsi.unimi.it/~cesabian/Pubblicazioni/J18.pdf), P. Auer et al., 2003.
+	- EXP3 provides an upper bound of order O(sqrt(NKlog(K))) and a lower bound of O(sqrt(NK)) on the minimax rate.
+	- The basic idea behind is to consider the policy as choosing a drawing probability distribution over the arms at each time step. Starting with a uniform distribution, this drawing distribution is updated according to the cumulative estimated gains at each time step.
 * **`MOSS`** [Minimax Policies for Adversarial and Stochastic Bandits](https://hal-enpc.archives-ouvertes.fr/hal-00834882), J-Y. Audibert and S. Bubeck, 2009.
 
 ### Best Arm Identification
