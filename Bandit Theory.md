@@ -25,6 +25,7 @@
 * [Lipschitz Bandits without the Lipschitz Constant](https://arxiv.org/abs/1105.5041), S. Bubeck et al., 2011.
 * **`HCT`** [Online Stochastic Optimization under Correlated Bandit Feedback](https://arxiv.org/abs/1402.0562), M. Gheshlaghi-Azar et al., 2014.
 * **`SiRI`** [Simple Regret for Infinitely Many Armed Bandits](https://arxiv.org/abs/1505.04627), M. Valko and A. Carpentier, 2015. ([talk](http://researchers.lille.inria.fr/~valko/hp/publications/carpentier2015simple.talk.pdf))
+	- SiRI is an algorithm that provides minimax optimal rate up to at most some log(n) factor on the simple regret.
 * **`POO`** [Black-box Optimization of Noisy Functions with Unknown Smoothness](https://papers.nips.cc/paper/5721-black-box-optimization-of-noisy-functions-with-unknown-smoothness), J-B. Grill et al., 2015.
 * Adaptivity to Smoothness in X-armed Bandits, A. Locatelli and A. Carpentier, 2018. ([video](http://videocrm.ca/Machine18/Machine18-20180424-4-AlexandraCarpentier.mp4))
 
