@@ -35,6 +35,6 @@
 * [Maximizing Acquisition Functions for Bayesian Optimization](https://arxiv.org/abs/1805.10196), J. Wilson et al., 2018.
 	- In this paper, the authors investigated two approaches for addressing BO's inner optimization problem, namely the differentiability of Monte Carlo integration and the submodularity of parallel querying.
 * [Tight Regret Bounds for Bayesian Optimization in One Dimension](https://arxiv.org/abs/1805.11792), J. Scarlett, 2018.
-	- The authors provide a lower bound of Omega(sqrt(T)) and an upper bound of O(sqrt(Tlog(T))) for BO with SE or Matérn kernels over one dimensional functions under some mild assumptions.
+	- The authors provide a lower bound of Omega(sqrt(T)) and an upper bound of O(sqrt(Tlog(T))) for BO over one dimensional functions under some mild assumptionson the kernel (e.g. SE and Matérn kernel satisfy these assumptions).
 	- The lower bound provided is the first one in a noisy Bayesian setting.
 
