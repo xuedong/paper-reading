@@ -7,6 +7,7 @@
 * [Model-based](#model-based)
 * [Multi Agent](#multi-agent)
 * [Planning](#planning)
+* [Imitation Learning](#imitation-learning)
 
 ## Papers
 
