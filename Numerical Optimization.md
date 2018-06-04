@@ -37,4 +37,5 @@
 * [Tight Regret Bounds for Bayesian Optimization in One Dimension](https://arxiv.org/abs/1805.11792), J. Scarlett, 2018.
 	- The authors provide a lower bound of Omega(sqrt(T)) and an upper bound of O(sqrt(Tlog(T))) for BO over one dimensional functions under some mild assumptionson the kernel (e.g. SE and Matérn kernel satisfy these assumptions).
 	- The lower bound provided is the first one in a noisy Bayesian setting.
+	- The idea of the algorithm is to construct a sequence of increasingly closely-packed subsets of a set of potential maxizimizers, by performing resampling and elimination according to some UCB and LCB terms.
 
