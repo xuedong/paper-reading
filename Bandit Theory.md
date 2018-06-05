@@ -18,6 +18,8 @@
 
 ### Contextual Bandits
 
+* [An Information-Theoretic Analysis of Thompson Sampling](https://arxiv.org/abs/1403.5341), D. Russo and B. van Roy, 2014.
+
 ### Continuum-armed Bandits
 
 * **`UCB-V`** **`UCB-F`** [Algorithms for Infinitely Many-Armed Bandits](https://papers.nips.cc/paper/3452-algorithms-for-infinitely-many-armed-bandits.pdf), Y. Wang et al., 2008.
