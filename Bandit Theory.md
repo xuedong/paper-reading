@@ -42,6 +42,16 @@
 
 ### Best Arm Identification
 
+#### Fixed Budget
+
+* **`SH`** [Almost Optimal Exploration in Multi-Armed Bandits](http://proceedings.mlr.press/v28/karnin13.pdf), Z. Karnin et al., 2013.
+	- Sequential Halving is a elimination-typed fixed-budget BAI algorithm that eliminated at each phase half of the arms.
+	- We need at most T = O(H2*log(n)*log(log(n)/delta)) pulls.
+
+#### Fixed Confidence
+
+* **`RacingUnbiasedPF`** [Best Arm Identification in Multi-armed Bandits with Delayed Feedback](https://arxiv.org/abs/1803.10937), A. Grover et al., 2018.
+
 #### Anytime
 
 * **`TTPS`** **`TTVS`** **`TTTS`** [Simple Bayesian Algorithms for Best Arm Identification](https://arxiv.org/abs/1602.08448), D. Russo, 2016. ([video](https://www.youtube.com/watch?v=5Mb_IguFDmQ))
