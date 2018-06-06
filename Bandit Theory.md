@@ -18,6 +18,7 @@
 
 ### Contextual Bandits
 
+* **`LinUCB`** [A Contextual-Bandit Approach to Personalized News Article Recommendation](http://rob.schapire.net/papers/www10.pdf), L. Li et al., 2010.
 * [An Information-Theoretic Analysis of Thompson Sampling](https://arxiv.org/abs/1403.5341), D. Russo and B. van Roy, 2014.
 * **`WB`** [New Insights into Bootstrapping for Bandits](https://arxiv.org/abs/1805.09793), S. Vaswani et al., 2018.
 
