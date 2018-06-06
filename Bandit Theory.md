@@ -44,8 +44,10 @@
 
 #### Fixed Budget
 
+* **`UCB-E`** **`SR`** [Best Arm Identification in Multi-Armed Bandits](http://imagine.enpc.fr/publications/papers/COLT10.pdf), J-Y. Audibert and S. Bubeck, 2010.
+	- Two fixed budget BAI algorithms are proposed in this paper. UCB-E is an UCB-liked algorithm, and SR is an elimination-typed algorithm in which one arm is eliminated in each phase.
 * **`SH`** [Almost Optimal Exploration in Multi-Armed Bandits](http://proceedings.mlr.press/v28/karnin13.pdf), Z. Karnin et al., 2013.
-	- Sequential Halving is a elimination-typed fixed-budget BAI algorithm that eliminated at each phase half of the arms.
+	- Sequential Halving is an elimination-typed fixed-budget BAI algorithm that eliminated at each phase half of the arms.
 	- We need at most T = O(H2*log(n)*log(log(n)/delta)) pulls.
 
 #### Fixed Confidence
