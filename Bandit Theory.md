@@ -31,7 +31,7 @@
 * **`StoSOO`** [Stochastic Simultaneous Optimistic Optimization](https://hal.inria.fr/hal-00789606), M. Valko et al., 2013.
 	- StoSOO provides a guarantee on simple regret.
 * **`HCT`** [Online Stochastic Optimization under Correlated Bandit Feedback](https://arxiv.org/abs/1402.0562), M. Gheshlaghi-Azar et al., 2014.
-	- HCT provides a guarantee on the cumulative regret.
+	- HCT provides a guarantee on cumulative regret.
 * **`SiRI`** [Simple Regret for Infinitely Many Armed Bandits](https://arxiv.org/abs/1505.04627), M. Valko and A. Carpentier, 2015. ([talk](http://researchers.lille.inria.fr/~valko/hp/publications/carpentier2015simple.talk.pdf))
 	- SiRI is an algorithm that provides minimax optimal rate up to at most some log(n) factor (depending on a parameter beta) on the simple regret for a infinitely many-armed bandit problem.
 	- It assumes a reservoir distribution on means of the arms.
