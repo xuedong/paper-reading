@@ -54,6 +54,7 @@
 * **`SH`** [Almost Optimal Exploration in Multi-Armed Bandits](http://proceedings.mlr.press/v28/karnin13.pdf), Z. Karnin et al., 2013.
 	- Sequential Halving is an elimination-typed fixed-budget BAI algorithm that eliminated at each phase half of the arms.
 	- We need at most T = O(H2*log(K)*log(log(K)/delta)) pulls.
+* **`P1`** Best of Both Worlds: Stochastic & Adversarial Best Arm Identification, Y. Abbasi-Yadkori et al., 2018.
 
 #### Fixed Confidence
 
@@ -63,7 +64,6 @@
 
 * **`TTPS`** **`TTVS`** **`TTTS`** [Simple Bayesian Algorithms for Best Arm Identification](https://arxiv.org/abs/1602.08448), D. Russo, 2016. ([video](https://www.youtube.com/watch?v=5Mb_IguFDmQ))
 	- This paper describes three simple TS-liked algorithms for BAI problem. The original TS algorithm has a well-known drawback: in many cases, TS tends to exclusively focusing on one arm (probably the best arm under the current posterior distribution over the parameters). To avoid this, with a certain probability, we choose to sample another action, either according to the optimal action probabilities, either according to an utility function of the parameters, either according to the currently sampled parameters themselves.
-* **`P1`** Best of Both Worlds: Stochastic & Adversarial Best Arm Identification, Y. Abbasi-Yadkori et al., 2018.
 
 ### Applications
 
