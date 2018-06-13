@@ -13,6 +13,8 @@
 
 ### Value-based
 
+* **`DQN`** [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602), V. Mnih et al., 2013. ([video](https://www.youtube.com/watch?v=iqXKQf2BOSE))
+
 ### Policy-based
 
 ### Model-based
