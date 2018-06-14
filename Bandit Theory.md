@@ -2,6 +2,7 @@
 
 ## Summary
 
+* [Survey](#survey)
 * [Stochastic Bandits](#stochastic-bandits)
 * [Contextual Bandits](#contextual-bandits)
 * [Continuum-armed Bandits](#continuum-armed-bandits)
@@ -11,6 +12,8 @@
 * [Others](#others)
 
 ## Papers
+
+### Survey
 
 ### Stochastic Bandits
 
