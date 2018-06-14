@@ -11,6 +11,7 @@ Typo corrections, additional points, paper suggestions etc are all very welcome.
 	- [Reinforcement Learning](https://github.com/xuedong/paper-reading/blob/master/Reinforcement%20Learning.md)
 	- [Deep Learning](https://github.com/xuedong/paper-reading/blob/master/Deep%20Learning.md)
 	- [Statistics](https://github.com/xuedong/paper-reading/blob/master/Statistics.md)
+	- [Hyperparameter Optimization](https://github.com/xuedong/paper-reading/blob/master/Hyperparameter%20Optimization.md)
 
 - Minor
 	- [Optimal Transport](https://github.com/xuedong/paper-reading/blob/master/Optimal%20Transport.md)
