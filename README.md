@@ -22,6 +22,6 @@ Typo corrections, additional points, paper suggestions etc are all very welcome.
 	- [Algorithm Selection](https://github.com/xuedong/paper-reading/blob/master/Algorithm%20Selection.md)
 	- [Active Learning](https://github.com/xuedong/paper-reading/blob/master/Active%20Learning.md)
 
-- Others
+- Other
 	- [Blockchain](https://github.com/xuedong/paper-reading/blob/master/Blockchain.md)
 
