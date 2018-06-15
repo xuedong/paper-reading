@@ -29,12 +29,17 @@
 
 * **`UCB-V`** **`UCB-F`** [Algorithms for Infinitely Many-Armed Bandits](https://papers.nips.cc/paper/3452-algorithms-for-infinitely-many-armed-bandits.pdf), Y. Wang et al., 2008.
 * **`HOO`** [X-armed Bandits](https://arxiv.org/abs/1001.4475), S. Bubeck et al., 2010. ([video](https://www.youtube.com/watch?v=G1abqjqffRE))
-	- HOO provides a guarantee on cumulative regret. But it is easy to bound simple regret by cumulative regret. At each time step, we only need to recommend an arm according to the distribution of previous plays.
+	- HOO is a hierarchical tree-based algorithm designed for stochastic settings, and it requires the knowledge of the (global) weakly Lipschitzness.
+	- HOO provides an expected bound on cumulative regret O(log(n)^(1/(d+2))n^((1+d)/(2+d))). But it is easy to bound simple regret by cumulative regret. At each time step, we only need to recommend an arm according to the distribution of previous plays.
 * [Lipschitz Bandits without the Lipschitz Constant](https://arxiv.org/abs/1105.5041), S. Bubeck et al., 2011.
+* **`DOO`** **`SOO`** [Optimistic Optimization of a Deterministic Function without the Knowledge of its Smoothness](https://papers.nips.cc/paper/4304-optimistic-optimization-of-a-deterministic-function-without-the-knowledge-of-its-smoothness.pdf), R. Munos, 2011.
+	- DOO and SOO are two hierarchical tree-based algorithms.
+	- DOO is designed for deterministic settings, and requires the knowledge of the local smoothness.
+	- SOO is designed for deterministic settings as well, but does not require the knowledge of the local smoothness.
 * **`StoSOO`** [Stochastic Simultaneous Optimistic Optimization](https://hal.inria.fr/hal-00789606), M. Valko et al., 2013.
-	- StoSOO provides a guarantee on simple regret.
+	- StoSOO is an extension of SOO to the stochastic setting that provides a guarantee on simple regret, and it does not require the knowledge of the local smoothness.
 * **`HCT`** [Online Stochastic Optimization under Correlated Bandit Feedback](https://arxiv.org/abs/1402.0562), M. Gheshlaghi-Azar et al., 2014.
-	- HCT provides a guarantee on cumulative regret.
+	- HCT provides an high probability bound on cumulative regret of order c.
 * **`SiRI`** [Simple Regret for Infinitely Many Armed Bandits](https://arxiv.org/abs/1505.04627), M. Valko and A. Carpentier, 2015. ([talk](http://researchers.lille.inria.fr/~valko/hp/publications/carpentier2015simple.talk.pdf))
 	- SiRI is an algorithm that provides minimax optimal rate up to at most some log(n) factor (depending on a parameter beta) on the simple regret for a infinitely many-armed bandit problem.
 	- It assumes a reservoir distribution on means of the arms.
