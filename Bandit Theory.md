@@ -18,6 +18,7 @@
 ### Stochastic Bandits
 
 * **`UCB1`** [Finite-time Analysis of the Multi-armed Bandit Problem](https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf), P. Auer et al., 2002.
+* **`KL-UCB`** [The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond](https://arxiv.org/abs/1102.2490), A. Garivier and O. Cappé, 2011.
 
 ### Contextual Bandits
 
