@@ -76,8 +76,8 @@
 
 ### Applications
 
-* [Balanced News using Constrained Bandit-based Personalization](https://arxiv.org/abs/1806.09202), S. Kapoor et al., 2018.
-	- Constrained bandits applied on depolarization of news personalization.
+* **`BalancedNews`** [Balanced News using Constrained Bandit-based Personalization](https://arxiv.org/abs/1806.09202), S. Kapoor et al., 2018.
+	- A prototype using constrained bandits to depolarize news personalization.
 * **`TOOF`** [Online Optimal Task Offloading with One-bit Feedback](https://arxiv.org/abs/1806.10547), S. Zhao et al., 2018.
 	- Application of linear bandits on task offloading for fog computing.
 	- The task node needs to decide which helper node to deliver the offloaded task according to the probability that a helper node being happy. The logit model is used to characterize this happiness probability conditioning to a feature vector.
