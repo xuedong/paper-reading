@@ -5,7 +5,7 @@
 * [Survey](#survey)
 * [Stochastic Bandits](#stochastic-bandits)
 * [Contextual Bandits](#contextual-bandits)
-* [Continuum-armed Bandits](#continuum-armed-bandits)
+* [Infinitely-armed Bandits](#infinitely-armed-bandits)
 * [Adversarial Bandits](#adversarial-bandits)
 * [Best Arm Identification](#best-arm-identification)
 * [Applications](#applications)
@@ -26,7 +26,7 @@
 * [An Information-Theoretic Analysis of Thompson Sampling](https://arxiv.org/abs/1403.5341), D. Russo and B. van Roy, 2014.
 * **`WB`** [New Insights into Bootstrapping for Bandits](https://arxiv.org/abs/1805.09793), S. Vaswani et al., 2018.
 
-### Continuum-armed Bandits
+### Infinitely-armed Bandits
 
 * **`UCB-V`** **`UCB-F`** [Algorithms for Infinitely Many-Armed Bandits](https://papers.nips.cc/paper/3452-algorithms-for-infinitely-many-armed-bandits.pdf), Y. Wang et al., 2008.
 * **`HOO`** [X-armed Bandits](https://arxiv.org/abs/1001.4475), S. Bubeck et al., 2010. ([video](https://www.youtube.com/watch?v=G1abqjqffRE))
@@ -46,6 +46,8 @@
 	- It assumes a reservoir distribution on means of the arms.
 * **`POO`** [Black-box Optimization of Noisy Functions with Unknown Smoothness](https://papers.nips.cc/paper/5721-black-box-optimization-of-noisy-functions-with-unknown-smoothness), J-B. Grill et al., 2015.
 * Adaptivity to Smoothness in X-armed Bandits, A. Locatelli and A. Carpentier, 2018. ([video](http://videocrm.ca/Machine18/Machine18-20180424-4-AlexandraCarpentier.mp4))
+* **`CBT`** [Infinite Arms Bandit: Optimality via Confidence Bounds](https://arxiv.org/abs/1805.11793), H. Chan and S. Hu, 2018.
+	- This paper has an extremely weird definition of regret. It's not clear if we are observing directly the suboptimality gap or not.
 
 ### Adversarial Bandits
 
