@@ -28,7 +28,7 @@
 
 ### Infinitely-armed Bandits
 
-* **`UCB-V`** **`UCB-F`** [Algorithms for Infinitely Many-Armed Bandits](https://papers.nips.cc/paper/3452-algorithms-for-infinitely-many-armed-bandits.pdf), Y. Wang et al., 2008.
+* **`UCB-V`** **`UCB-F`** **`UCB-AIR`** [Algorithms for Infinitely Many-Armed Bandits](https://papers.nips.cc/paper/3452-algorithms-for-infinitely-many-armed-bandits.pdf), Y. Wang et al., 2008.
 * **`HOO`** [X-armed Bandits](https://arxiv.org/abs/1001.4475), S. Bubeck et al., 2010. ([video](https://www.youtube.com/watch?v=G1abqjqffRE))
 	- HOO is a hierarchical tree-based algorithm designed for stochastic settings, and it requires the knowledge of the (global) weakly Lipschitzness.
 	- HOO provides an expected bound on cumulative regret O(log(n)^(1/(d+2))n^((1+d)/(2+d))). But it is easy to bound simple regret by cumulative regret. At each time step, we only need to recommend an arm according to the distribution of previous plays.
