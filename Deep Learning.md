@@ -17,7 +17,9 @@
 
 ### Theory
 
-### General
+### General Model
+
+* **`Dropout`** [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html), N. Srivastava et al., 2014.
 
 ### Speech Recognition
 
