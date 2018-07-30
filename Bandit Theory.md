@@ -83,6 +83,8 @@
 * **`TOOF`** [Online Optimal Task Offloading with One-bit Feedback](https://arxiv.org/abs/1806.10547), S. Zhao et al., 2018.
 	- Application of linear bandits on task offloading for fog computing.
 	- The task node needs to decide which helper node to deliver the offloaded task according to the probability that a helper node being happy. The logit model is used to characterize this happiness probability conditioning to a feature vector.
+* **`GR`** **`UR`** **`Epsilon-First`** [
+Task Recommendation in Crowdsourcing Based on Learning Preferences and Reliabilities](https://arxiv.org/abs/1807.10444), Q. Kang and W. Tay, 2018.
 
 ### Others
 
