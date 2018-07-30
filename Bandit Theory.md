@@ -85,6 +85,8 @@
 	- The task node needs to decide which helper node to deliver the offloaded task according to the probability that a helper node being happy. The logit model is used to characterize this happiness probability conditioning to a feature vector.
 * **`GR`** **`UR`** **`Epsilon-First`** [
 Task Recommendation in Crowdsourcing Based on Learning Preferences and Reliabilities](https://arxiv.org/abs/1807.10444), Q. Kang and W. Tay, 2018.
+	- This paper deals with the online crowdsourcing task recommendation problem. It proposes several MAB algorithms that take into account both the worker's preferences (that workers can accept or reject a task) and reliabilities (by delivering gold tasks that solutions are known a priori, which do not generate rewards however).
+	- The MAB formulation is related to risk-averse MAB.
 
 ### Others
 
