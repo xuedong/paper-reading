@@ -17,6 +17,13 @@
 
 ### Policy-based
 
+#### Policy Gradient
+
+* **`TRPO`** [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477), J. Schulman et al., 2015. ([demo](https://www.youtube.com/watch?v=KJ15iGGJFvQ))
+* **`PPO`** [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347), J. Schulman et al., 2017. ([demo](https://www.youtube.com/watch?v=bqdjsmSoSgI))
+
+#### Actor Critic
+
 ### Model-based
 
 ### Multi Agent
