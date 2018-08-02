@@ -17,10 +17,17 @@
 
 ### Theory
 
-### General Model
+### Deep Learning Models
+
+#### General Models
 
 * **`Dropout`** [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html), N. Srivastava et al., 2014.
     - Drop out neurons randomly along with their connections to other layers during the learning.
+
+#### Generative Models
+
+* **`GAN`** [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets), I. Goodfellow et al., 2016.
+* **`acGAN`** [Online Adaptive Curriculum Learning for GANs](https://arxiv.org/abs/1808.00020), T. Doan et al., 2018.
 
 ### Speech Recognition
 
