@@ -3,7 +3,7 @@
 ## Summary
 
 * [Hyperparameter Optimization](#hyperparameter-optimization)
-* [Model Search](#model-search)
+* [Neural Architecture Search](#neural-architecture-search)
 * [Meta Learning](#meta-learning)
 * [Transfer Learning](#transfer-learning)
 * [Automatic Differentiation](#automatic-differentiation)
@@ -17,9 +17,10 @@
 * **`BOHB`** [BOHB: Robust and Efficient Hyperparameter Optimization at Scale](https://arxiv.org/abs/1807.01774), S. Falkner et al., 2018.
 	- Bayesian optimization (in particular, TPE) combined with Hyperband.
 
-### Model Search
+### Neural Architecture Search
 
 * [Towards Automated Deep Learning: Efficient Joint Neural Architecture and Hyperparameter Search](https://arxiv.org/abs/1807.06906), A. Zela et al., 2018.
+	- This workshop paper casts the NAS problem as a HPO problem, and applied BOHB.
 
 ### Meta Learning
 
