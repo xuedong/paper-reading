@@ -5,6 +5,7 @@
 * [Hyperparameter Optimization](#hyperparameter-optimization)
 * [Model Search](#model-search)
 * [Meta Learning](#meta-learning)
+* [Transfer Learning](#transfer-learning)
 
 ## Papers
 
@@ -22,3 +23,6 @@
 ### Meta Learning
 
 * **`Reverse-HG`** [Bilevel Programming for Hyperparameter Optimization and Meta-Learning](https://arxiv.org/abs/1806.04910), L. Franceschi et al., 2018.
+
+### Transfer Learning
+

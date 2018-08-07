@@ -17,7 +17,6 @@ Typo corrections, additional points, paper suggestions etc are all very welcome.
 	- [Optimal Transport](https://github.com/xuedong/paper-reading/blob/master/Optimal%20Transport.md)
 	- [Clustering](https://github.com/xuedong/paper-reading/blob/master/Clustering.md)
 	- [Time Series](https://github.com/xuedong/paper-reading/blob/master/Time%20Series.md)
-	- [Transfer Learning](https://github.com/xuedong/paper-reading/blob/master/Transfer%20Learning.md)
 	- [Recommendation System](https://github.com/xuedong/paper-reading/blob/master/Recommendation%20System.md)
 	- [Algorithm Selection](https://github.com/xuedong/paper-reading/blob/master/Algorithm%20Selection.md)
 	- [Active Learning](https://github.com/xuedong/paper-reading/blob/master/Active%20Learning.md)
