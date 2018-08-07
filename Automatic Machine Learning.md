@@ -22,7 +22,10 @@
 
 ### Meta Learning
 
-* **`Reverse-HG`** [Bilevel Programming for Hyperparameter Optimization and Meta-Learning](https://arxiv.org/abs/1806.04910), L. Franceschi et al., 2018.
+* [Bilevel Programming for Hyperparameter Optimization and Meta-Learning](https://arxiv.org/abs/1806.04910), L. Franceschi et al., 2018.
+	- This paper proposed an unified view of HPO and metal learning with bilevel programming.
+	- The main contribution is an approximate form of the bilevel programming and has been proved to converge to the real problem under some (regularity) assumptions.
+	- The experiments are more specific to meta learning though, and don't have much to do with HPO. Gradient-based algorithms like Adam can be used to optimize the hyperparameter vector lambda.
 
 ### Transfer Learning
 
