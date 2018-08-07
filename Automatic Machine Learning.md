@@ -6,6 +6,7 @@
 * [Model Search](#model-search)
 * [Meta Learning](#meta-learning)
 * [Transfer Learning](#transfer-learning)
+* [Automatic Differentiation](#automatic-differentiation)
 
 ## Papers
 
@@ -28,4 +29,6 @@
 	- The experiments are more specific to meta learning though, and don't have much to do with HPO. Gradient-based algorithms like Adam can be used to optimize the hyperparameter vector lambda.
 
 ### Transfer Learning
+
+### Automatic Differentiation
 
