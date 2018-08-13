@@ -66,6 +66,8 @@
 	- Sequential Halving is an elimination-typed fixed-budget BAI algorithm that eliminated at each phase half of the arms.
 	- We need at most T = O(H2*log(K)*log(log(K)/delta)) pulls.
 * **`P1`** Best of Both Worlds: Stochastic & Adversarial Best Arm Identification, Y. Abbasi-Yadkori et al., 2018.
+	- This paper addresses the BoB problem for fixed-budget BAI. For the adversarial setting, the adversary is assumed to be oblivious.
+	- It is shown that being simultaneously robust to adversarial rewards and optimal for stochastic rewards is not possible in general.
 
 #### Fixed Confidence
 
