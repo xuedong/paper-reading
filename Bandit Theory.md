@@ -80,6 +80,10 @@
 
 ### Applications
 
+* **`ADAPT`** [Diversity-Driven Selection of Exploration Strategies in Multi-Armed Bandits](https://arxiv.org/abs/1808.07739), F. Benureau and P-Y. Oudeyer, 2015.
+	- This paper separates the exploration and learning phase within an environment, and motivates the importance of studying exploration independently from the learning process. 
+	- The quality of an exploration is assessed by the behaviour diversity, or more formally the coverage of the image space (sensor space in robotics), more precisely the volume (in a Lebesgue sens) of the hyperballs around each observed effect.
+	- A bandit-based strategy-agnostic method is proposed. Since in this problem, different strategies may depend on each other and rewards can be diminishing, thus the adversarial bandit setting is more appropriate.
 * **`BalancedNews`** [Balanced News using Constrained Bandit-based Personalization](https://arxiv.org/abs/1806.09202), S. Kapoor et al., 2018.
 	- A prototype using constrained bandits to depolarize news personalization.
 * **`TOOF`** [Online Optimal Task Offloading with One-bit Feedback](https://arxiv.org/abs/1806.10547), S. Zhao et al., 2018.
