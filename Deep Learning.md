@@ -28,6 +28,7 @@
 
 * **`GAN`** [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets), I. Goodfellow et al., 2016.
 * **`acGAN`** [Online Adaptive Curriculum Learning for GANs](https://arxiv.org/abs/1808.00020), T. Doan et al., 2018.
+* **`StyleGAN`** [DeSIGN: Design Inspiration from Generative Networks](https://arxiv.org/abs/1804.00921), O. Sbai et al., 2018.
 
 ### Speech Recognition
 
