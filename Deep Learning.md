@@ -4,7 +4,7 @@
 
 * [Survey](#survey)
 * [Theory](#theory)
-* [General](#general)
+* [Deep Learning Models](#deep-learning-models)
 * [Speech Recognition](#speech-recognition)
 * [Image Processing](#image-processing)
 * [Visual Tracking](#visual-tracking)
