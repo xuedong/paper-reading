@@ -8,6 +8,7 @@
 * [Multi Agent](#multi-agent)
 * [Planning](#planning)
 * [Imitation Learning](#imitation-learning)
+* [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
 
 ## Papers
 
@@ -33,4 +34,8 @@
 ### Imitation Learning
 
 * **`TDC`** **`CMC`** [Playing Hard Exploration Games by Watching YouTube](https://arxiv.org/abs/1805.11592), Y. Aytar et al., 2018. ([demo](https://www.youtube.com/playlist?list=PLZuOGGtntKlaOoq_8wk5aKgE_u_Qcpqhu))
+
+### Inverse Reinforcement Learning
+
+* **`Projection`** [Apprenticeship Learning via Inverse Reinforcement Learning](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf), P. Abbeel and A. Ng, 2004.
 
