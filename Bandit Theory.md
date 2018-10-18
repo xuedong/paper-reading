@@ -78,6 +78,13 @@
 * **`TTPS`** **`TTVS`** **`TTTS`** [Simple Bayesian Algorithms for Best Arm Identification](https://arxiv.org/abs/1602.08448), D. Russo, 2016. ([video](https://www.youtube.com/watch?v=5Mb_IguFDmQ))
 	- This paper describes three simple TS-liked algorithms for BAI problem. The original TS algorithm has a well-known drawback: in many cases, TS tends to exclusively focusing on one arm (probably the best arm under the current posterior distribution over the parameters). To avoid this, with a certain probability, we choose to sample another action, either according to the optimal action probabilities, either according to an utility function of the parameters, either according to the currently sampled parameters themselves.
 
+#### Variants
+
+* **`Contextual-Gap`** [Simple Regret Minimization for Contextual Bandits](https://arxiv.org/abs/1810.07371), A. Deshmukh et al., 2018.
+	- First formulation of BAI in contextual bandits setting where the best arm at time t depends on the context.
+	- Applied to estimating weak interplanetary magnetic fields with noise using resource-constrained spacecraft such as nano-satellites and CubeSats. The problem is to determine the best sensor to actuate at each time step.
+	- The algorithm is UGapE-inspired, and has a fixed confidence guarantee.
+
 ### Applications
 
 * **`ADAPT`** [Diversity-Driven Selection of Exploration Strategies in Multi-Armed Bandits](https://arxiv.org/abs/1808.07739), F. Benureau and P-Y. Oudeyer, 2015.
