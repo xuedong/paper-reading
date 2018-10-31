@@ -22,8 +22,11 @@
 
 * **`TRPO`** [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477), J. Schulman et al., 2015. ([demo](https://www.youtube.com/watch?v=KJ15iGGJFvQ))
 * **`PPO`** [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347), J. Schulman et al., 2017. ([demo](https://www.youtube.com/watch?v=bqdjsmSoSgI))
+* **`RND`** [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894), Y. Burda et al., 2018.
 
 #### Actor Critic
+
+* **`AC`** [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf), Sutton R. et al., 1999.
 
 ### Model-based
 
