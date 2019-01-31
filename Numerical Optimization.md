@@ -38,4 +38,6 @@
 	- The authors provide a lower bound of Omega(sqrt(T)) and an upper bound of O(sqrt(Tlog(T))) for BO over one dimensional functions under some mild assumptionson the kernel (e.g. SE and Matérn kernel satisfy these assumptions).
 	- The lower bound provided is the first one in a noisy Bayesian setting.
 	- The idea of the algorithm is to construct a sequence of increasingly closely-packed subsets of a set of potential maxizimizers, by performing resampling and elimination according to some UCB and LCB terms.
+* **`A-GP-UCB`** [No-regret Bayesian Optimization with Unknown Hyperparameters](https://arxiv.org/abs/1901.03357), F. Berkenkamp et al., 2019.
+	- It's an adaptive GP-UCB algorithm wrt its hyperparameters, namely the lengthscales theta of the kernel and the RKHS norm bound B (so the assumption is that the objective function f has boundedd RKHS norm). Roughly speaking, it increases B or decreases theta by time so that the function class is expanded, thus avoids the hyperparameters misspecification problem while still keeping a sublinear regret bound.
 
