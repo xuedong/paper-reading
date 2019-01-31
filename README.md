@@ -20,6 +20,7 @@ Typo corrections, additional points, paper suggestions etc are all very welcome.
 	- [Recommendation System](https://github.com/xuedong/paper-reading/blob/master/Recommendation%20System.md)
 	- [Algorithm Selection](https://github.com/xuedong/paper-reading/blob/master/Algorithm%20Selection.md)
 	- [Active Learning](https://github.com/xuedong/paper-reading/blob/master/Active%20Learning.md)
+	- [Natural Language Processing](https://github.com/xuedong/paper-reading/blob/master/Natural%20Language%20Processing.md)
 
 - Other
 	- [Blockchain](https://github.com/xuedong/paper-reading/blob/master/Blockchain.md)
