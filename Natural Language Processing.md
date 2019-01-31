@@ -25,3 +25,6 @@
 	- Subsampling is used to speedup the training, and it can also slightly improve the accuracy.
 	- Phrase representations can also be done in the same fashion.
 * **`GloVe`** [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf), J. Pennington et al., 2014.
+
+### Natural Language Understanding
+
