@@ -2,13 +2,20 @@
 
 ## Summary
 
+* [Survey](#survey)
 * [Hyperparameter Optimization](#hyperparameter-optimization)
 * [Neural Architecture Search](#neural-architecture-search)
+* [Automated Feature Extraction](#automated-feature-extraction)
 * [Meta Learning](#meta-learning)
 * [Transfer Learning](#transfer-learning)
 * [Automatic Differentiation](#automatic-differentiation)
 
 ## Papers
+
+### Survey
+
+* [Automated Machine Learning: Methods, Systems, Challenges](https://www.automl.org/book/), F. Hutter et al., 2019.
+* [Survey on Automated Machine Learning](https://arxiv.org/abs/1904.12054), M-A. Zöller and M. Huber, 2019.
 
 ### Hyperparameter Optimization
 
@@ -30,6 +37,8 @@
 
 * [Towards Automated Deep Learning: Efficient Joint Neural Architecture and Hyperparameter Search](https://arxiv.org/abs/1807.06906), A. Zela et al., 2018.
 	- This workshop paper casts the NAS problem as a HPO problem, and applied BOHB.
+
+### Automated Feature Extraction
 
 ### Meta Learning
 
