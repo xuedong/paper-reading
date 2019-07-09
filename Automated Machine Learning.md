@@ -1,4 +1,4 @@
-# Automatic Machine Learning
+# Automated Machine Learning
 
 ## Summary
 
