@@ -5,6 +5,9 @@
 - Data Preparation
 	- Data Collection
 	- Data Cleaning
+- Feature Engineering
+- Model Selection
+- Model Evaluation
 	
 <div style="text-align: center">
 <img src="figures/procedure.jpg" width="600px" atl="procedure"/>
