@@ -2,14 +2,14 @@
 
 ## AutoML Procedure and Taxonomy
 
+- Data Preparation
+	- Data Collection
+	- Data Cleaning
+	
 <div style="text-align: center">
 <img src="figures/procedure.jpg" width="600px" atl="procedure"/>
 </div>
 (Figure credit: @https://github.com/hibayesian)
-
-- Data Preparation
-	- Data Collection
-	- Data Cleaning
 
 ## Summary
 
