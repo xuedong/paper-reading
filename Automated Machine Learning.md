@@ -1,5 +1,9 @@
 # Automated Machine Learning
 
+## AutoML Procedure and Taxonomy
+
+- 
+
 ## Summary
 
 * [Survey](#survey)
