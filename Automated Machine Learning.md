@@ -6,7 +6,7 @@
 	- Data Collection
 	- Data Cleaning
 - Feature Engineering
-- Model Selection
+- Pipeline Generation
 - Model Evaluation
 	
 <div style="text-align: center">
