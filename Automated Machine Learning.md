@@ -2,7 +2,11 @@
 
 ## AutoML Procedure and Taxonomy
 
-- 
+<div style="text-align: center">
+<img src="figures/procedure.jpg" width="600px" atl="procedure" caption="Figure credit:"/>
+</div>
+
+- Training Data Preparation
 
 ## Summary
 
