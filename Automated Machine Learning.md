@@ -7,7 +7,9 @@
 </div>
 (Figure credit: @https://github.com/hibayesian)
 
-- Training Data Preparation
+- Data Preparation
+	- Data Collection
+	- Data Cleaning
 
 ## Summary
 
