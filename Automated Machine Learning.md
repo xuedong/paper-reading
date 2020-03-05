@@ -10,7 +10,7 @@
 - Model Evaluation
 	
 <div style="text-align: center">
-<img src="figures/procedure.jpg" width="600px" atl="procedure"/>
+<img src="https://raw.githubusercontent.com/hibayesian/awesome-automl-papers/master/resources/procedure.jpg" width="600px" atl="procedure"/>
 </div>
 (Figure credit: @https://github.com/hibayesian)
 
