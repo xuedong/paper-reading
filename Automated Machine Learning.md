@@ -28,8 +28,12 @@
 
 ### Survey
 
+* [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306), Q. Yao et al., 2018
 * [Automated Machine Learning: Methods, Systems, Challenges](https://www.automl.org/book/), F. Hutter et al., 2019.
 * [Survey on Automated Machine Learning](https://arxiv.org/abs/1904.12054), M-A. Zöller and M. Huber, 2019.
+* [AutoML: A Survey of the State-of-the-Art](http://arxiv.org/abs/1908.00709), X. He et al., 2019.
+* [Techniques for Automated Machine Learning](http://arxiv.org/abs/1907.08908), Y-W. Chen et al., 2019.
+* [Automated Machine Learning: State-of-the-Art and Open Chanllenges](http://arxiv.org/abs/1906.02287), R. Elshawi et al., 2019
 
 ### Hyperparameter Optimization
 
